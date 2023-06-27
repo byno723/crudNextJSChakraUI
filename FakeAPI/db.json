@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "title": "React JS",
+      "author": "gory",
+      "id": 1
+    },
+    {
+      "title": "Golang",
+      "author": "sitepu",
+      "id": 2
+    }
+  ]
+}
