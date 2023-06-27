@@ -22,6 +22,16 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Images
+
+![home](https://github.com/byno723/crudNextJSChakraUI/assets/61469586/509e60d4-80c4-4ca1-8d3c-f5b8e7bfe67f)
+
+![add](https://github.com/byno723/crudNextJSChakraUI/assets/61469586/668ad359-6a82-4e9c-ab85-51734250fb9b)
+
+
+![Edit](https://github.com/byno723/crudNextJSChakraUI/assets/61469586/975bbf67-3fc3-4fcb-9c87-42a5cc7e45b6)
+
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
